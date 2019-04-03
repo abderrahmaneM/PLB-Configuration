@@ -12,7 +12,7 @@ export const store=new Store({
     getters :{
 
         name: state => state.name,
-        const
+
     },
     mutations:{
                setCryptourrencies(state,ReultatDuFetch){
